@@ -1,17 +1,11 @@
 # Store web client
-Store web client created on React App with Redux, TypeScript, webpack 
+Store web client created in static way.
 
 ## Description
 Store web client.
 
 ## Setup & Run
-
-```
-$ npm install
-```
-```
-$ npm start
-``` 
+Open index.html in any web browser.
 
 ## Creator
 

@@ -2,7 +2,7 @@
 Store web client created in static way.
 
 ## Description
-Store web client.
+Store web client. Build in static way.
 
 ## Setup & Run
 Open index.html in any web browser.

@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Boss: Talgat Akunsartov
+    Contact: talgat.akunsartov [at] gmail.com
+    Twitter: @aktalgatt
+    From: Bishkek, Kyrgyzstan
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

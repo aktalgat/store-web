@@ -1,0 +1,26 @@
+{
+  "name": "store-web",
+  "version": "1.0.0",
+  "description": "Store web project",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aktalgat/store-web.git"
+  },
+  "keywords": [
+    "Store",
+    "web"
+  ],
+  "author": "Talgat Akunsartov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aktalgat/store-web/issues"
+  },
+  "homepage": "https://github.com/aktalgat/store-web#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0"
+  }
+}

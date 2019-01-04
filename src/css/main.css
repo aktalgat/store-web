@@ -44,6 +44,7 @@ body
 .top_bar_contact_item a:hover
 {
   color: #8a8a8a;
+  text-decoration: none;
 }
 .top_bar_contact_item:last-child
 {
